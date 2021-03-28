@@ -11,8 +11,7 @@ public class Caso7 {
 	    System.out.println("RESULTADOS");
 	    System.out.println("----------");
 		System.out.println("Respuesta: " + respuesta);
-		
-		
+	
 	}
 
 }

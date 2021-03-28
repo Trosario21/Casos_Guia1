@@ -21,7 +21,7 @@ public class Caso4 {
 		float division = n1 / n2;
 		float resto_entero = n1 % n2;
 		
-		System.out.println("-----Valores Ingresados-----");
+		System.out.println("\n-----Valores Ingresados-----");
 		System.out.println("Suma: " + suma);
 		System.out.println("Resta: " + resta);
 		System.out.println("Producto : " + producto);

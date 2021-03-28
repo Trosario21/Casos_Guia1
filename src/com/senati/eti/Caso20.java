@@ -16,7 +16,7 @@ public class Caso20 {
 		
 		
 		System.out.println("\n----Resultados----");
-	    System.out.println("Total de la venta aumentado en 20%....: " + df.format(venta_aumentado));
+	    System.out.println("Total de la venta aumentado en 42%....: " + df.format(venta_aumentado));
 
 	}
 

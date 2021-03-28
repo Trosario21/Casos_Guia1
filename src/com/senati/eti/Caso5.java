@@ -26,9 +26,6 @@ public class Caso5 {
 		System.out.println("Resultado 1: " + promedio);
 		System.out.println("Resultado 2: " + aumentado);
 		System.out.println("Resultado 3 : " + disminuido);
-		
-
-	
 
 	}
 

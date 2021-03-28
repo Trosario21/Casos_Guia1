@@ -10,8 +10,10 @@ public class Caso10 {
 		System.out.print("Ingrese radio: ");
 	    int radio = sc.nextInt();
 	    
-	    float area = (float) (Math.PI * Math.pow(radio,2));
-	    float perimetro = (float) (2 * radio * Math.PI);
+	    float pi =3.1416f;
+	    
+	    float area = (float)(pi * Math.pow(radio,2));
+	    float perimetro = (float) (2 * radio * pi);
 	    		
 	    System.out.println("\n----------");
 	    System.out.println("Resultados");
